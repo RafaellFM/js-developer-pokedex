@@ -45,3 +45,8 @@ loadMoreButton.addEventListener('click', () => {
         loadPokemonItens(offset, limit)
     }
 })
+
+
+// Atualizando o git
+
+// Outra Atualização
