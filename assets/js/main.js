@@ -47,6 +47,3 @@ loadMoreButton.addEventListener('click', () => {
 })
 
 
-// Atualizando o git
-
-// Outra Atualização
